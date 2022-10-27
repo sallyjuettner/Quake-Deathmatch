@@ -3003,7 +3003,7 @@
 // entity 36
 {
 "classname" "item_shells"
-"origin" "-544 -96 208"
+"origin" "-552 -136 208"
 }
 // entity 37
 {
@@ -3470,4 +3470,39 @@
 {
 "classname" "light"
 "origin" "-1064 -680 40"
+}
+// entity 122
+{
+"classname" "light"
+"origin" "-1752 -1032 88"
+}
+// entity 123
+{
+"classname" "light"
+"origin" "-1576 -248 72"
+}
+// entity 124
+{
+"classname" "light"
+"origin" "-1656 -664 56"
+}
+// entity 125
+{
+"classname" "light"
+"origin" "-768 -632 24"
+}
+// entity 126
+{
+"classname" "light"
+"origin" "-712 -240 48"
+}
+// entity 127
+{
+"classname" "light"
+"origin" "-312 -768 216"
+}
+// entity 128
+{
+"classname" "light"
+"origin" "-520 -80 266"
 }
